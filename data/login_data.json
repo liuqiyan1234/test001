@@ -1,0 +1,15 @@
+[
+
+	{"ihrm_login_data":{"mobile":"13900000002","password":"123456"},"httpcode":200, "success":false, "code":20001, "message":"用户名或密码错误"},
+	{"ihrm_login_data":{"mobile":"13800000002","password":"error"},"httpcode":200, "success":false, "code":20001, "message":"用户名或密码错误"},
+	{"ihrm_login_data":{"mobile":"","password":"error"},"httpcode":200, "success":false, "code":20001, "message":"用户名或密码错误"},
+	{"ihrm_login_data":{"mobile":"138(0000002","password":"error"},"httpcode":200, "success":false, "code":20001, "message":"用户名或密码错误"},
+	{"ihrm_login_data":{"mobile":"13800000002","password":""},"httpcode":200, "success":false, "code":20001, "message":"用户名或密码错误"},
+	{"ihrm_login_data":{"mobile":"13800000002","password":"123456","more_params":"123"},"httpcode":200, "success":true, "code":10000, "message":"操作成功！"},
+	{"ihrm_login_data":{"password":"error"},"httpcode":200, "success":false, "code":20001, "message":"用户名或密码错误"},
+	{"ihrm_login_data":{"mobile":"13800000002"},"httpcode":200, "success":false, "code":20001, "message":"用户名或密码错误"},
+	{"ihrm_login_data":{},"httpcode":200, "success":false, "code":20001, "message":"用户名或密码错误"},
+	{"ihrm_login_data":{"mboile":"13800000002","password":"error"},"httpcode":200, "success":false, "code":20001, "message":"用户名或密码错误"},
+	{"ihrm_login_data":null,"httpcode":200, "success":false, "code":99999, "message":"抱歉，系统繁忙，请稍后重试！"},
+	{"ihrm_login_data":{"mobile":"13800000002","password":"123456"},"httpcode":200, "success":true, "code":10000, "message":"操作成功！"}
+]

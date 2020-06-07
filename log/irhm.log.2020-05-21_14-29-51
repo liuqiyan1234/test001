@@ -1,0 +1,13 @@
+2020-05-21 14:29:50,321 INFO [root] [__init__.py(<module>:5)] - 测试日志是否会打印！
+2020-05-21 14:29:50,597 INFO [root] [test_irhm_login_parames.py(test_01_login_success:21)] - 登录的结果：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-05-21 14:29:50,692 INFO [root] [test_irhm_login_parames.py(test_01_login_success:21)] - 登录的结果：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-05-21 14:29:50,789 INFO [root] [test_irhm_login_parames.py(test_01_login_success:21)] - 登录的结果：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-05-21 14:29:50,884 INFO [root] [test_irhm_login_parames.py(test_01_login_success:21)] - 登录的结果：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-05-21 14:29:50,976 INFO [root] [test_irhm_login_parames.py(test_01_login_success:21)] - 登录的结果：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-05-21 14:29:51,070 INFO [root] [test_irhm_login_parames.py(test_01_login_success:21)] - 登录的结果：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': 'e4b1889c-b9bc-410e-8a67-d72e3b0a3908'}
+2020-05-21 14:29:51,164 INFO [root] [test_irhm_login_parames.py(test_01_login_success:21)] - 登录的结果：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-05-21 14:29:51,252 INFO [root] [test_irhm_login_parames.py(test_01_login_success:21)] - 登录的结果：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-05-21 14:29:51,344 INFO [root] [test_irhm_login_parames.py(test_01_login_success:21)] - 登录的结果：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-05-21 14:29:51,437 INFO [root] [test_irhm_login_parames.py(test_01_login_success:21)] - 登录的结果：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-05-21 14:29:51,528 INFO [root] [test_irhm_login_parames.py(test_01_login_success:21)] - 登录的结果：{'success': False, 'code': 99999, 'message': '抱歉，系统繁忙，请稍后重试！', 'data': None}
+2020-05-21 14:29:51,623 INFO [root] [test_irhm_login_parames.py(test_01_login_success:21)] - 登录的结果：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': '1f72fc06-ef72-4be2-a534-304f024c182d'}
